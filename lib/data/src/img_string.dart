@@ -1,0 +1,30 @@
+class ImgString{
+  static const String abstract01 = 'assets/images/assets/images/Città Abstract-1.png';
+  static const String abstract02 = 'assets/images/Città Abstract-2.png';
+  static const String abstract03 = 'assets/images/Città Abstract-3.png';
+  static const String abstract = 'assets/images/Città Abstract.png';
+  static const String backdrop = 'assets/images/Città Avatar and Backdrop.png';
+  static const String avatar = 'assets/images/Città Avatar.png';
+  static const String avatar01 = 'assets/images/Città Avatar1-.png';
+  static const String avatar02 = 'assets/images/Città Avatar-2.png';
+  static const String avatar03 = 'assets/images/Città Avatar-3.png';
+  static const String coffeShop = 'assets/images/Città Coffee Shop.png';
+  static const String coffeShop01 = 'assets/images/Città Coffee Shop-1.png';
+  static const String coffeShop02 = 'assets/images/Città Coffee Shop-2.png';
+  static const String giantPhone = 'assets/images/Città Giant Phone.png';
+  static const String giantPhone01 = 'assets/images/Città Giant Phone-1.png';
+  static const String house = 'assets/images/Città House.png';
+  static const String livingRoom = 'assets/images/Città Living Room.png';
+  static const String partyTime = 'assets/images/Città Party Time.png.png';
+  static const String partyTime01 = 'assets/images/Città Party Time-1.png.png';
+  static const String plants = 'assets/images/Città Plants.png';
+  static const String plants01 = 'assets/images/Città Plants01.png';
+  static const String plants02 = 'assets/images/Città Plants02.png';
+  static const String plants03 = 'assets/images/Città Plants03.png';
+  static const String plants04 = 'assets/images/Città Plants04.png';
+  static const String plants05 = 'assets/images/Città Plants05.png';
+  static const String plants06 = 'assets/images/Città Plants06.png';
+  static const String standing = 'assets/images/Città Standing.png';
+  static const String standing01 = 'assets/images/Città Standing-1.png';
+  static const String standing02 = 'assets/images/Città Standing-2.png';
+}
